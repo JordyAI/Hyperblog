@@ -6,13 +6,10 @@ Tengo 25 años, y nací el 25 Marzo de 1995.
 
 Estudio ingeniería electrónica.
 
-<<<<<<< HEAD
 Cambio 1
 
 Cambio 4
 Cambio 2
-=======
 Cambio 2
 
 Cambio 3
->>>>>>> f4e34b1 (C3)
